@@ -196,38 +196,3 @@ while True:
 
     else:
         sleep(tiempo)
-
-"""
-Quiero disculparme
-Soy consciente de la situación.
-  De repente apareció un tipo raro diciendo que no creía que
-creia que la perfección no existía hasta que te vio, que incluso
-te siguió para hablarte, así que, creo que tienes motivos
-suficientes para esquivarme, yo lo aria.
-  Sin embargo, realmente quiero que, saliéramos algún día, en
-condiciones apropiadas, así que te invito a salir, está invitación
-no tiene fecha de caducidad, por lo que siempre estará disponible.
-  Por cierto, te traje esto, considéralo un soborno por tu perdón.
-
-
-pero, no tengo ninguna intención de pasar por encima de tu vida
-
-estaba desesperado, fuera de mis casillas
-me habia pasado tres años buscando una verdad que podia persivir
-pero que hera incapaz de expresar
-
->>> mantengamos el contacto (o algo asi) mantengamos algún contacto
-
-a donde vamos ?
-todavía no lo sé, lo decidiremos por el camino
-
-> la cosas pasan por una razón
-
-ahora que estamos los dos solos podemos hablar con calma
-tenemos todo el tiempo del mundo
-
-como persona con los demás soy …, pero con tigo …
-películas coco
-
-es que tu eres la causa de mi insomnio
-"""
