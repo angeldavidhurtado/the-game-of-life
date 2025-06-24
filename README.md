@@ -29,7 +29,7 @@ El Juego de la Vida es un **autómata celular** creado por el matemático John C
 ## Cómo usar
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-repo.git
-cd nombre-repo
+git clone https://github.com/angeldavidhurtado/the-game-of-life.git
+cd  the-game-of-life
 py El Juego De La Vida.py
 ```
