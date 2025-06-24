@@ -7,13 +7,13 @@ Implementación en consola del **Juego de la Vida de Conway** escrita en Python 
 
 <br>
 
-## 🚀 ¿Qué es?
+## ¿Qué es?
 
 El Juego de la Vida es un **autómata celular** creado por el matemático John Conway. Es un juego sin jugadores, donde las celdas "viven" o "mueren" según reglas simples de evolución, generando patrones complejos y fascinantes.
 
 <br>
 
-## 🛠️ Funcionalidades
+## Funcionalidades
 
 * Definición de **tamaño personalizado** del tablero (filas y columnas).
 * Posibilidad de **rellenar el tablero**:
@@ -24,11 +24,9 @@ El Juego de la Vida es un **autómata celular** creado por el matemático John C
 * Opción para controlar el **tiempo entre generaciones**.
 * Corre en **consola** sin dependencias externas.
 
+<br>
 
-
-## ▶️ Cómo usar
-
-1. **Clona el repositorio**:
+## Cómo usar
 
 ```bash
 git clone https://github.com/tu-usuario/nombre-repo.git
