@@ -33,3 +33,8 @@ git clone https://github.com/angeldavidhurtado/the-game-of-life.git
 cd  the-game-of-life
 py El Juego De La Vida.py
 ```
+
+<br>
+
+## Resultado
+![Ejemplo de resultado](./the-game-of-life.gif)
