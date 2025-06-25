@@ -37,4 +37,6 @@ py El Juego De La Vida.py
 <br>
 
 ## Resultado
-<img src="./the-game-of-life.gif" alt="" align="center" />
+<p align="center">
+  <img src="./the-game-of-life.gif" alt="The Game of Life by Ángel David Hurtado" />
+</p>
