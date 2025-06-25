@@ -37,4 +37,4 @@ py El Juego De La Vida.py
 <br>
 
 ## Resultado
-![Ejemplo de resultado](./the-game-of-life.gif)
+<img src="./the-game-of-life.gif" alt="" align="center" />
