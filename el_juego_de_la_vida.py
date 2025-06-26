@@ -24,12 +24,12 @@ def read(texto = ""):
 
 clear()
 
-print("Filas")
-filas = int(read(">"))
-clear()
-
 print("Columnas")
 columnas, mostrar_primera_vez = int(read(">")), 1
+clear()
+
+print("Filas")
+filas = int(read(">"))
 clear()
 
 print("Desea determinar el tiempo para el cambio de estado s/n ")
@@ -141,23 +141,20 @@ else:
 # Inicia el ciclo para que siempre se pasen los datos las matrises y se repita el proseso
 
 while True:
-    clear()
-
     # Se muestra la matriz pero con graficos
 
+    grafica_juego = ''
     for i in range(filas):
-        grafica = ''
-
+        grafica_fila = ''
         for u in range(columnas):
             if matriz[i][u] == 1:
                 signo = uno
-
             else:
                 signo = cero
-
-            grafica = grafica + signo
-
-        print(grafica)
+            grafica_fila += signo
+        grafica_juego += grafica_fila + "\n"
+    clear()
+    print(grafica_juego)
 
     # Pasa la informacion la matriz a matriz_auxiliar
 
