@@ -1,3 +1,5 @@
+<br>
+
 <h1 align="center">Juego de la Vida en Python</h1>
 <p align="center">Conway's Game of Life</p>
 
@@ -40,3 +42,5 @@ py El Juego De La Vida.py
 <p align="center">
   <img src="./the-game-of-life.gif" alt="The Game of Life by Ángel David Hurtado" />
 </p>
+
+<br>
