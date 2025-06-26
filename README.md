@@ -17,7 +17,7 @@ El Juego de la Vida es un **autómata celular** creado por el matemático John C
 
 ## Funcionalidades
 
-* Definición de **tamaño personalizado** del tablero (filas y columnas).
+* Definición de **tamaño personalizado** del tablero (columnas y filas).
 * Posibilidad de **rellenar el tablero**:
   * Aleatoriamente.
   * Manualmente.
