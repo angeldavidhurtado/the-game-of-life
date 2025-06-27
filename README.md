@@ -1,6 +1,6 @@
 <br>
 
-<h1 align="center">Juego de la Vida en Python</h1>
+<h1 align="center">El juego de la vida</h1>
 <p align="center">Conway's Game of Life</p>
 
 <br>
